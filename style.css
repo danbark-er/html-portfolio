@@ -1,0 +1,32 @@
+* {
+    text-align: center;
+}
+
+input {
+    text-align: left;
+}
+
+h1 {
+    font-size: 80px;
+    text-shadow: 8px 8px 10px gray;
+}
+
+.g {color: #0000cc;}
+.o1 {color: #cc0000;}
+.o2 {color: #ffcc00;}
+.l {color: #008000;}
+.e {color: #cc0000;}
+.ex {color: #0000cc;}
+
+.search {
+    background-color: lightgrey;
+}
+
+.subscribe {
+    background-color: lightgrey;
+}
+
+
+
+
+
